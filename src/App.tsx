@@ -1,6 +1,4 @@
 import React from "react";
-import "./App.css";
-import "./style/global.scss";
 import Title from "./components/Title";
 import Pokemon from "./components/Pokemon";
 
